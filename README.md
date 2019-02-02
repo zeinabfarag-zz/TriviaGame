@@ -2,18 +2,14 @@
 
 ## Overview
 
-A burger logger application made with Node.js, Express, MySQL, and Handlebars.
+A timed trivia game built with jQuery and bootstrap.
 
 ## Description
 
-This application demonstrates a simple full stack application with a front end implemented with HTML/CSS and the backend implemented with Node.js and Express. HTML templating is done with the help of Handlebars. It is built using the MVC framework.
-
-The user may enter any burger name to add it to the menu. This also adds the new burger entry into the MySQL database. The initial burger entry is added as *Burgers you can eat* on the menu and placed on the left side of the screen. The user may then eat any burger by clicking on it, which moves it into the adjacent column and updates its status accordingly in the database.
+User has limited time to answer trivia questions. If time runs out or user answers incorrectly, the game is over. 
 
 ## Technologies Used
-* Node.js
-* Express.js
-* MySQL
+
 * jQuery
 * Bootstrap
 
