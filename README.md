@@ -19,4 +19,4 @@ The user may enter any burger name to add it to the menu. This also adds the new
 
 ## Website
 
-https://github.com/zeinabfarag/BurgerApp
+https://zeinabfarag.github.io/TriviaGame/
